@@ -1,0 +1,96 @@
+# EduGenie – Google Gemini Powered Learning Assistant
+
+## Team Details
+
+**Team ID:** SWTID-2026-6208
+
+**Team Size:** 4
+
+**Team Lead:** Srinithi R 
+
+**Team Members:**
+- Kanimozhi R
+- Shehla Sheri M 
+
+## Project Overview
+
+EduGenie is a lightweight AI-powered educational assistant designed to simplify learning through Generative AI.
+
+EduGenie enables users to:
+
+- Ask questions and receive smart answers
+- Understand complex concepts through simplified explanations
+- Generate quizzes from topics or text
+- Receive personalized learning recommendations
+- Summarize large educational passages
+- Create structured learning paths
+
+The application uses Google Gemini AI to provide intelligent and personalized learning assistance.
+
+## Problem Statement
+
+Creating a suitable learning plan and understanding complex concepts can be difficult because students have different learning requirements, preferences, and levels of understanding.
+
+EduGenie provides an AI-assisted solution for generating personalized and structured learning support based on user input.
+
+## Main Features
+
+- Personalized learning assistance
+- AI question answering
+- Simple concept explanations
+- Quiz generation
+- Educational text summarization
+- Learning recommendations
+- Structured learning paths
+- Google Gemini AI integration
+
+## Technologies Used
+
+- Python
+- FastAPI
+- Google Gemini
+- Generative AI
+- HTML
+- CSS
+- MySQL
+- API Integration
+
+## Project Workflow
+
+1. Brainstorming & Ideation
+2. Requirement Analysis
+3. Project Design Phase
+4. Project Planning Phase
+5. Project Development Phase
+6. Project Testing
+7. Project Documentation
+8. Project Demonstration
+
+## Project Scenarios
+
+### Scenario 1
+
+A student wants to learn about oceans and rivers. EduGenie provides a simple and understandable answer to the student's question.
+
+### Scenario 2
+
+A student wants to check her understanding of the Pythagoras Theorem. EduGenie can generate a quiz for practice.
+
+### Scenario 3
+
+A learner wants to learn SQL. EduGenie provides a structured learning path with topics and learning suggestions.
+
+## System Architecture
+
+```text
+User
+  ↓
+HTML/CSS Frontend
+  ↓
+FastAPI Backend
+  ↓
+Google Gemini AI
+  ↓
+Response Processing
+  ↓
+User
